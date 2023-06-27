@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "new_headers",
+  "info": {
+    "singularName": "new-header",
+    "pluralName": "new-headers",
+    "displayName": "New_Header",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header_names": {
+      "type": "string"
+    }
+  }
+}

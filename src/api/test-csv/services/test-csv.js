@@ -1,0 +1,9 @@
+'use strict';
+
+/**
+ * test-csv service
+ */
+
+const { createCoreService } = require('@strapi/strapi').factories;
+
+module.exports = createCoreService('api::test-csv.test-csv');

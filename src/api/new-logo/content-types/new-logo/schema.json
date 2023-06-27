@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "new_logos",
+  "info": {
+    "singularName": "new-logo",
+    "pluralName": "new-logos",
+    "displayName": "New_Logo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

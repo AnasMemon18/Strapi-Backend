@@ -1,0 +1,57 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test_csvs",
+  "info": {
+    "singularName": "test-csv",
+    "pluralName": "test-csvs",
+    "displayName": "test-csv"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Series_reference": {
+      "type": "string"
+    },
+    "Period": {
+      "type": "float"
+    },
+    "Data_value": {
+      "type": "float"
+    },
+    "Suppressed": {
+      "type": "string"
+    },
+    "STATUS": {
+      "type": "string"
+    },
+    "UNITS": {
+      "type": "string"
+    },
+    "Magnitude": {
+      "type": "integer"
+    },
+    "Subject": {
+      "type": "string"
+    },
+    "Group": {
+      "type": "string"
+    },
+    "Series_title_1": {
+      "type": "string"
+    },
+    "Series_title_2": {
+      "type": "string"
+    },
+    "Series_title_3": {
+      "type": "string"
+    },
+    "Series_title_4": {
+      "type": "string"
+    },
+    "Series_title_5": {
+      "type": "string"
+    }
+  }
+}
